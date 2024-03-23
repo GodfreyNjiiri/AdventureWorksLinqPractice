@@ -1,1 +1,5 @@
-﻿Console.Write("hello");
+﻿using AdventureWorksLinqPractice.Scenarios;
+
+PersonEmailScenario.Run();
+
+CustomerOrderQuantityScenario.Run();
