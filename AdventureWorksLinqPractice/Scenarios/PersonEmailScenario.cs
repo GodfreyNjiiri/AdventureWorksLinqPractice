@@ -1,9 +1,4 @@
 ﻿// PersonEmailScenario.cs
-using System;
-using System.Diagnostics;
-using System.Linq;
-using AdventureWorksLinqPractice.Data;
-using AdventureWorksLinqPractice.Models;
 
 namespace AdventureWorksLinqPractice.Scenarios
 {
