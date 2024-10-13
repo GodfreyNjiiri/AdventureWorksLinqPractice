@@ -9,3 +9,5 @@ await concurrentDashboardQueries.RunAsync();
 
 EmployeeLeaveSummaryScenario.Run();
 SalesRevenueByTerritoryScenario.Run();
+
+HighestDiscountOrderPerCustomerScenario.Run();
