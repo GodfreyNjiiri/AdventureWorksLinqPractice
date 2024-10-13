@@ -1,8 +1,10 @@
 ﻿using AdventureWorksLinqPractice.Scenarios;
 
-//PersonEmailScenario.Run();
+PersonEmailScenario.Run();
 
-//CustomerOrderQuantityScenario.Run();
+CustomerOrderQuantityScenario.Run();
 
 var concurrentDashboardQueries = new ConcurrentDashboardQueries();
 await concurrentDashboardQueries.RunAsync();
+
+EmployeeLeaveSummaryScenario.Run();
