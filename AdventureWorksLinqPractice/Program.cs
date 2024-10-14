@@ -4,13 +4,15 @@
 
 //CustomerOrderQuantityScenario.Run();
 
-var concurrentDashboardQueries = new ConcurrentDashboardQueries();
-await concurrentDashboardQueries.RunAsync();
+//var concurrentDashboardQueries = new ConcurrentDashboardQueries();
+//await concurrentDashboardQueries.RunAsync();
 
-EmployeeLeaveSummaryScenario.Run();
-SalesRevenueByTerritoryScenario.Run();
+//EmployeeLeaveSummaryScenario.Run();
+//SalesRevenueByTerritoryScenario.Run();
 
-HighestDiscountOrderPerCustomerScenario.Run();
-BusinessEntityAddressScenario.Run();
+//HighestDiscountOrderPerCustomerScenario.Run();
+//BusinessEntityAddressScenario.Run();
 
 EmployeePayAnalysisScenario.Run();
+EmployeeCompensationSummaryScenario.Run();
+PersonEmployeeCategoryBreakdownScenario.Run();
