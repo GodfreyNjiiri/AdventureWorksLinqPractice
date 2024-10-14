@@ -11,3 +11,4 @@ EmployeeLeaveSummaryScenario.Run();
 SalesRevenueByTerritoryScenario.Run();
 
 HighestDiscountOrderPerCustomerScenario.Run();
+BusinessEntityAddressScenario.Run();
