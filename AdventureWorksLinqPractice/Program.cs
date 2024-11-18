@@ -13,6 +13,9 @@
 //HighestDiscountOrderPerCustomerScenario.Run();
 //BusinessEntityAddressScenario.Run();
 
+
+// test git client
+
 EmployeePayAnalysisScenario.Run();
 EmployeeCompensationSummaryScenario.Run();
 PersonEmployeeCategoryBreakdownScenario.Run();
