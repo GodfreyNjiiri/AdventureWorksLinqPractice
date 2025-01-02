@@ -25,3 +25,5 @@
 //CustomerOrderHistorySummaryScenario.Run();
 
 CustomerOrderHistorySummaryScenarioPagination.Run();
+
+ProductCategoryBarChartScenario.Run();
