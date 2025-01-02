@@ -21,3 +21,5 @@
 PersonEmployeeCategoryBreakdownScenario.Run();
 
 SalesPerformanceSummaryScenario.Run();
+
+CustomerOrderHistorySummaryScenario.Run();
