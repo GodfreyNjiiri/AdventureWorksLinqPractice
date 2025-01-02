@@ -16,6 +16,8 @@
 
 // test git client
 
-EmployeePayAnalysisScenario.Run();
-EmployeeCompensationSummaryScenario.Run();
+//EmployeePayAnalysisScenario.Run();
+//EmployeeCompensationSummaryScenario.Run();
 PersonEmployeeCategoryBreakdownScenario.Run();
+
+SalesPerformanceSummaryScenario.Run();
