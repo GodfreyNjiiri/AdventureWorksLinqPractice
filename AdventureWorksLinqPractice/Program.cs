@@ -18,8 +18,10 @@
 
 //EmployeePayAnalysisScenario.Run();
 //EmployeeCompensationSummaryScenario.Run();
-PersonEmployeeCategoryBreakdownScenario.Run();
+//PersonEmployeeCategoryBreakdownScenario.Run();
 
-SalesPerformanceSummaryScenario.Run();
+//SalesPerformanceSummaryScenario.Run();
 
-CustomerOrderHistorySummaryScenario.Run();
+//CustomerOrderHistorySummaryScenario.Run();
+
+CustomerOrderHistorySummaryScenarioPagination.Run();
