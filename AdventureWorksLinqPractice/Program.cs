@@ -28,3 +28,4 @@
 
 ProductCategoryBarChartScenario.Run();
 SupplierActivityScenario.Run();
+QuarterlySalesReportScenario.Run();
