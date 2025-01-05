@@ -30,3 +30,4 @@
 //SupplierActivityScenario.Run();
 QuarterlySalesReportScenario.Run();
 CustomerOrderHistoryScenario.Run();
+ProductCategoryHierarchyScenario.Run();
