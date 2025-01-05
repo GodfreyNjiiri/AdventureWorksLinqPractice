@@ -26,6 +26,7 @@
 
 //CustomerOrderHistorySummaryScenarioPagination.Run();
 
-ProductCategoryBarChartScenario.Run();
-SupplierActivityScenario.Run();
+//ProductCategoryBarChartScenario.Run();
+//SupplierActivityScenario.Run();
 QuarterlySalesReportScenario.Run();
+CustomerOrderHistoryScenario.Run();
