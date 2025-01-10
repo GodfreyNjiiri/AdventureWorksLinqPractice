@@ -31,3 +31,5 @@
 QuarterlySalesReportScenario.Run();
 CustomerOrderHistoryScenario.Run();
 ProductCategoryHierarchyScenario.Run();
+
+SalesTrendsOverTimeScenario.Run();
