@@ -1,4 +1,5 @@
-﻿using AdventureWorksLinqPractice.Scenarios;
+﻿using AdventureWorksLinqPractice.Benchmarking;
+using AdventureWorksLinqPractice.Scenarios;
 
 //PersonEmailScenario.Run();
 
@@ -33,3 +34,6 @@ CustomerOrderHistoryScenario.Run();
 ProductCategoryHierarchyScenario.Run();
 
 SalesTrendsOverTimeScenario.Run();
+
+
+SalesTrendsBenchmark.Run();
