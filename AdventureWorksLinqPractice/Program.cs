@@ -29,11 +29,12 @@ using AdventureWorksLinqPractice.Scenarios;
 
 //ProductCategoryBarChartScenario.Run();
 //SupplierActivityScenario.Run();
-QuarterlySalesReportScenario.Run();
-CustomerOrderHistoryScenario.Run();
-ProductCategoryHierarchyScenario.Run();
+//QuarterlySalesReportScenario.Run();
+//CustomerOrderHistoryScenario.Run();
+//ProductCategoryHierarchyScenario.Run();
 
 SalesTrendsOverTimeScenario.Run();
 
 
 SalesTrendsBenchmark.Run();
+EmployeeDepartmentBenchmark.Run();
