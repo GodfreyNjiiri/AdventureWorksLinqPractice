@@ -33,8 +33,10 @@ using AdventureWorksLinqPractice.Scenarios;
 //CustomerOrderHistoryScenario.Run();
 //ProductCategoryHierarchyScenario.Run();
 
-SalesTrendsOverTimeScenario.Run();
+//SalesTrendsOverTimeScenario.Run();
 
 
-SalesTrendsBenchmark.Run();
-EmployeeDepartmentBenchmark.Run();
+//SalesTrendsBenchmark.Run();
+//EmployeeDepartmentBenchmark.Run();
+
+ConcurrentDashboardQueriesV2.RunAsync();
