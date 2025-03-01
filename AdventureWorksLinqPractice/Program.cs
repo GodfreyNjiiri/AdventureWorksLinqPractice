@@ -39,4 +39,6 @@ using AdventureWorksLinqPractice.Scenarios;
 //SalesTrendsBenchmark.Run();
 //EmployeeDepartmentBenchmark.Run();
 
-ConcurrentDashboardQueriesV2.RunAsync();
+await ConcurrentDashboardQueriesV2.RunAsync();
+
+await BusinessLogicScenario.RunAsync();
